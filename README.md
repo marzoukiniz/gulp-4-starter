@@ -17,5 +17,5 @@ Purify.
 Clone the repository with git clone : 
 Run npm install
 ```
-## Authors
+#### Authors
 Nizar Marzouki
